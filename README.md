@@ -30,6 +30,9 @@ _현재 프리티어 사용중입니다_
 
 `
 CREATE DATABASE insideout;   
+
+`
+
 mysql -u (user) -p insideout < /경로/이름.sql;
 `
 
