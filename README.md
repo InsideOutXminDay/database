@@ -36,5 +36,5 @@ _현재 프리티어 사용중입니다_
     mysql -u (user) -p insideout < /경로/이름.sql;
  
 
-
+_만약 1번 백업파일을 내려받으실 경우 sequelize model 버전이 아니므로 백엔드와 호환되지않습니다_
 
