@@ -6,6 +6,7 @@ MySQL을 사용했으며 전체 스키마 정보 및 서비스 운영에 필요�
 
 > ## ERD
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+
 ![insideoutDB_ERD_0726(2)](https://github.com/user-attachments/assets/b03fc403-7072-4daf-ba9f-2710ae51c175)
 
 > ## 배포
