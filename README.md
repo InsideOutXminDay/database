@@ -28,13 +28,10 @@ _현재 프리티어 사용중입니다_
 > ## 임포트
 만약 DB Schema 정보를 임포트하고 싶으시다면 로컬 cmd 창에서 다음을 실행해주세요
 
-`
-CREATE DATABASE insideout;   
 
-`
-
-mysql -u (user) -p insideout < /경로/이름.sql;
-`
+    CREATE DATABASE insideout; 
+    mysql -u (user) -p insideout < /경로/이름.sql;
+ 
 
 
 
