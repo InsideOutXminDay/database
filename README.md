@@ -8,7 +8,6 @@ MySQL을 사용했으며 전체 스키마 정보 및 서비스 운영에 필요�
 3. dump-data-Insert.sql: 2027.07.25 InsideOut Database (emoji, contents, paragraph data update)
 
 
-
 > ## ERD
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
@@ -18,6 +17,7 @@ MySQL을 사용했으며 전체 스키마 정보 및 서비스 운영에 필요�
 > ## 배포
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 배포는 AWS RDS 를 사용하였습니다
+
 프로젝트 시간상의 문제로 프론트와 백엔드를 배포하지 못해 호스트와 비밀번호를 이용해 팀원들끼리만 DB에 접근하고 있습니다
 
 
