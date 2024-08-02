@@ -4,8 +4,6 @@ InsideOutXminDay Database
 <img src="https://img.shields.io/badge/AWS RDS--527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 
 
-#527FFF
-
 MySQL 전체 스키마 백업 및 임포트   
 
 - dump-first.sql : 2024.07.19 InsideOut Database
