@@ -18,7 +18,7 @@ MySQL을 사용했으며 전체 스키마 정보 및 서비스 운영에 필요�
 
 > ## 백업
 
-1. dump-first.sql : 2024.07.19 InsideOut Database
+1. dump-first.sql : 2024.07.19 InsideOut Database (MySQL)
 2. dump-sequelize.sql: 2024.07.23 InsideOut Database (sequelize Model)
 3. dump-data-Insert.sql: 2027.07.25 InsideOut Database (emoji, contents, paragraph data update)
 
