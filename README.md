@@ -3,7 +3,7 @@
 
 MySQL을 사용했으며 전체 스키마 정보 및 서비스 운영에 필요한 기본적인 데이터를 백업해두었습니다. 
 
-Table Model은 Sequelize Model 을 사용했습니다
+Table Model은 Sequelize 를 사용했습니다
 
 
 > ## ERD
