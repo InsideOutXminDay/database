@@ -7,3 +7,4 @@ MySQL 전체 스키마 백업 및 임포트
 - dump-data-Insert.sql: 2027.07.25 InsideOut Database (emoji, contents, paragraph data update)
 
 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
