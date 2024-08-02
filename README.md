@@ -26,7 +26,7 @@ _현재 프리티어 사용중입니다_
 3. dump-data-Insert.sql: 2027.07.25 InsideOut Database (emoji, contents, paragraph data update)
 
 > ## 임포트
-만약 DB Schema 정보를 임포트하고 싶으시다면 로컬 cmd 창에서 다음을 실행해주세요
+만약 DB Schema 정보를 임포트하고 싶으시다면 백업 파일을 내려받으신 후 그 경로와 이름으로 로컬 cmd 창에서 다음을 실행해주세요
 
 
     CREATE DATABASE insideout; 
